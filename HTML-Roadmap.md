@@ -1,10 +1,9 @@
 
-# Project Title
+# HTML ROADMAP
 
-A brief description of what this project does and who it's for
+"Unleash your creativity with HTML: Learn to build awesome websites from scratch!" 🚀💻
 
-
-## HTML Roadmap
+## Start Learning with HTML Roadmap
 
 # 7-Day HTML Learning Roadmap
 Welcome to the 7-day HTML learning journey! This roadmap is designed for beginners to help you grasp the fundamentals of HTML in a week. Each day, you'll cover specific topics and engage in hands-on exercises.

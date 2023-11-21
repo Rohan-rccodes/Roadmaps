@@ -1,10 +1,10 @@
 
-# Project Title
+# CSS Roadmap
 
-A brief description of what this project does and who it's for
+"Start your digital creativity with CSS: Learn to design awesome websites from scratch!" 🚀💻👨‍💻🖥️.
 
 
-## CSS Roadmap
+## Star Learning with CSS Roadmap
 
 - Introduction 
 - Selectors 

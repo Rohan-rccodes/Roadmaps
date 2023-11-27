@@ -41,65 +41,79 @@ Welcome to the 20-day C language learning journey! This roadmap is designed for 
 Understand the basics of C programming. [Details](#)
 
 ### Day 2: Writing Your First C Program
-Learn the structure of a C program. Practice writing a simple "Hello, World!" program. [Details](#)
+Learn the structure of a C program. 
+Practice writing a simple "Hello, World!" program. [Details](#)
 
 ### Day 3: Variables and Data Types
-Understand C data types. Learn how to declare and use variables. [Details](#)
+Understand C data types. 
+Learn how to declare and use variables. [Details](#)
 
 ### Day 4: Operators and Expressions
-Explore C operators. Understand expressions and their evaluation. [Details](#)
+Explore C operators.
+Understand expressions and their evaluation. [Details](#)
 
 ## Control Flow and Functions
 ### Day 5: Conditional Statements
-Learn about if, else if, and else statements. Practice using switch-case. [Details](#)
+Learn about if, else if, and else statements.
+Practice using switch-case. [Details](#)
 
 ### Day 6: Loops
 Understand different loop structures in C (for, while, do-while). Practice loop control statements. [Details](#)
 
 ### Day 7: Functions in C
-Learn how to declare and use functions. Understand function parameters and return values. [Details](#)
+Learn how to declare and use functions. 
+Understand function parameters and return values. [Details](#)
 
 ### Day 8: Advanced Function Concepts
-Understand variable scope within functions. Learn about recursion. [Details](#)
+Understand variable scope within functions. 
+Learn about recursion. [Details](#)
 
 ## Arrays and Pointers
 ### Day 9: Working with Arrays
 Learn about arrays in C. Practice array manipulation. [Details](#)
 
 ### Day 10: Strings in C
-Understand C string manipulation. Learn about string functions. [Details](#)
+Understand C string manipulation. 
+Learn about string functions. [Details](#)
 
 ### Day 11: Pointers
 Understand the concept of pointers in C. Practice working with pointers. [Details](#)
 
 ### Day 12: Dynamic Memory Allocation
-Learn about dynamic memory allocation. Understand malloc, free, calloc, and realloc functions. [Details](#)
+Learn about dynamic memory allocation. 
+Understand malloc, free, calloc, and realloc functions. [Details](#)
 
 ## Structures and File Handling
 ### Day 13: Structures
-Learn about C structures. Practice creating and using structures. [Details](#)
+Learn about C structures. 
+Practice creating and using structures. [Details](#)
 
 ### Day 14: File Handling
 Understand how to read and write files in C. Learn about file manipulation functions. [Details](#)
 
 ### Day 15: Command-Line Arguments
-Explore handling command-line arguments in C. Practice creating programs that accept arguments. [Details](#)
+Explore handling command-line arguments in C. 
+Practice creating programs that accept arguments. [Details](#)
 
 ### Day 16: Project: Simple C Application
 Apply your knowledge to build a simple console-based application in C. [Details](#)
 
 ## Advanced Concepts and Practice
 ### Day 17: Introduction to Pointers and Arrays
-Understand the relationship between pointers and arrays. Practice advanced array and pointer manipulation. [Details](#)
+Understand the relationship between pointers and arrays. 
+Practice advanced array and pointer manipulation. [Details](#)
 
 ### Day 18: Advanced Topics (Structures and Pointers)
-Explore advanced concepts in structures and pointers. Practice creating complex data structures. [Details](#)
+Explore advanced concepts in structures and pointers. 
+Practice creating complex data structures. [Details](#)
 
 ### Day 19: Recursion in C
-Understand recursive functions. Practice solving problems using recursion. [Details](#)
+Understand recursive functions. 
+Practice solving problems using recursion. [Details](#)
 
 ### Day 20: Final Project and Review
-Build a small project that combines various concepts learned. Review key topics and concepts covered in the past 20 days. [Details](#)
+Build a small project that combines various concepts learned. 
+Review key topics and concepts covered in the past 20 days. [Details](#)
 
 ## Bonus Tips
 ### Explore C Documentation and Resources
@@ -115,4 +129,7 @@ Join C programming communities for discussions and support. [Details](#)
 Consider advanced C topics (multithreading, socket programming). [Details](#)
 
 ## Conclusion
-Congratulations on completing the 20-day C language learning roadmap! You've built a strong foundation for programming in C. Keep practicing, building projects, and exploring new concepts. Happy coding! [Details](#)
+Congratulations on completing the 20-day C language learning roadmap!
+You've built a strong foundation for programming in C. Keep practicing, building projects, and exploring new concepts.
+
+Happy coding! [Details](#)
